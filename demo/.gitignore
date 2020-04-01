@@ -4,7 +4,5 @@
 *.iml
 *.ipr
 *.class
-*.settings
-*.project
-*.iml
 .idea/*
+
